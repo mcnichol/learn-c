@@ -1,0 +1,38 @@
+{
+   "metadata":{
+      "type": "programming-langage"
+   },
+   "keywords": [
+      { "operator": "auto", "description":"Give a local variable a local lifetime."},
+      { "operator": "break", "description": "Exit out of a compound statement."},
+      { "operator": "case", "description": "A branch in a switch-statement."},
+      { "operator": "char", "description": "Character data type."},
+      { "operator": "continue", "description": "Continue to the top of a loop."},
+      { "operator": "default", "description": "Default branch in a switch-statement."},
+      { "operator": "do", "description": "Start a do-while loop."},
+      { "operator": "double", "description": "A double floating-point data type."},
+      { "operator": "else", "description": "An else branch of an if-statement."},
+      { "operator": "enum", "description": "Define a set of int constants."},
+      { "operator": "extern", "description": "Declare an identifier is defined externally."},
+      { "operator": "float", "description": "A floating-point ata type."},
+      { "operator": "for", "description": "Start a for-loop."},
+      { "operator": "goto", "description": "Jump to a label."},
+      { "operator": "if", "description": "Starts an if-statement."},
+      { "operator": "int", "description": "An integer data type."},
+      { "operator": "long", "description": "A long integer data type."},
+      { "operator": "register", "description": "Declare a variable be stored in a CPU register."},
+      { "operator": "return", "description": "Return from a function."},
+      { "operator": "short", "description": "A short integer data type."},
+      { "operator": "signed", "description": "A signed modifier for integer data types."},
+      { "operator": "sizeof", "description": "Determine the size of data."},
+      { "operator": "static", "description": "Preserve variable value after its scope exits."},
+      { "operator": "struct", "description": "Combine variables into a single record."},
+      { "operator": "switch", "description": "Start a switch-statement."},
+      { "operator": "typedef", "description": "Create a new type."},
+      { "operator": "union", "description": "Start a union-statement."},
+      { "operator": "unsigned", "description": "An unsigned modifier for integer data types."},
+      { "operator": "void", "description": "Declare a data type empty."},
+      { "operator": "volatile", "description": "Declare a variable might be modified elsewhere."},
+      { "operator": "while", "description": "Start a while-loop."}
+   ]
+}
