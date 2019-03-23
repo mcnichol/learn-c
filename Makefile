@@ -19,6 +19,10 @@ all:
 	make exercise-15/ex15
 	exercise-15/ex15 
 	@echo
+	make exercise-16/ex16
+	exercise-16/ex16 
+	@echo
+
 
 clean:
 	rm -f exercise-01/ex1
@@ -27,3 +31,4 @@ clean:
 	rm -f exercise-10/ex10
 	rm -f exercise-13/ex13
 	rm -f exercise-15/ex15
+	rm -f exercise-16/ex16
